@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5y7BRd8z3g4t8HxBWAEjnb8vq2mudNlhbaxzkik4Z6s=",
+  "Source": "server",
+  "BasePath": "_content/server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server\\wwwroot",
+      "Source": "server",
+      "ContentRoot": "G:\\.NET\\pj\\Shopping7\\Backend\\server\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
